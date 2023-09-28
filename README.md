@@ -12,9 +12,9 @@ pip install SocketServer
 pip install pyinstaller 
 
 --
-Building
+Building windows exe
 --
-pyinstaller --onefile --windowed --add-data "star.png:." .\vmchub.py
+pyinstaller --onefile --windowed --add-data "star.png;." .\vmchub.py
 
 ---
 Running
