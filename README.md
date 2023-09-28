@@ -1,6 +1,6 @@
 # vmchub
 ---
-OSC Port Forwarder / OSC animation capture and replay for Vtubing
+VMC/OSC Port Forwarder VMC/OSC animation capture and replay for Vtubing
 ---
 This app allows you to forward multiple sources of VMC/OSC traffic (like VeeSeeFace) to one consumer (like VtuberPlus). 
 
