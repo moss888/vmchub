@@ -10,7 +10,8 @@ It also provides capture and replay to facilitate idle animations
 Dependencies - (let me know if I missed one!)
 --
 
-pip install pyqt6            
+pip install pyqt6
+pip install pynput
 pip install python-osc       
 pip install SocketServer 
 pip install pyinstaller 
